@@ -1,4 +1,4 @@
-![Design preview for the Expenses chart component coding challenge](./Screenshot%20.png)
+![Design preview ](./Screenshot%20.png)
 
 ## Welcome! 👋
 
